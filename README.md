@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# ToDo-webApp
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### [Live Site](https://notes-list.netlify.app/)
 
 ## Available Scripts
 
